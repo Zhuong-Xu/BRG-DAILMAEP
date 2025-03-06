@@ -12,4 +12,4 @@ practical asynchronous parallel method Temporal Ensemble
 with Dropped Actions (TEDA) that enhances the smoothness
 of operations. To show the efficiency of the proposed pipeline,
 large-scale imitation learning models are trained on a server
-and deployed on an edge device to complete various manipulation tasks.
+and deployed on an edge device to complete various manipulation tasks.
